@@ -28,4 +28,9 @@
   background-size: cover;
   background-position: center;
 }
+
+body {
+  color: #212121;
+  line-height: 1.5;
+}
 /*# sourceMappingURL=main.css.map */
